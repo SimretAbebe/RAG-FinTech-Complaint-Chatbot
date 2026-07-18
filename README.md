@@ -1,3 +1,4 @@
+![demo](docs/screenshot.jpg)
 # CrediTrust RAG Complaint Chatbot
 
 An AI-powered internal tool that transforms raw customer complaint data
